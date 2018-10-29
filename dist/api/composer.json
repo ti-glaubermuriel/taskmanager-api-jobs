@@ -1,0 +1,9 @@
+{
+  "require": {
+    "slim/slim": "2.*",
+    "illuminate/database": "v5.0.28"
+  },
+  "autoload":{
+    "classmap":["models"]
+  }
+} 
