@@ -1,3 +1,6 @@
 /node_modules
 /dist
 /api/vendor
+index-prod.html
+package-lock.json
+gulpfile.js
