@@ -1,4 +1,4 @@
-# Simple Create, Read, Update, Delete (CRUD) in PHP Slim & PostgreSql
+# Rest Api Simple Create, Read, Update, Delete (CRUD) in PHP Slim & PostgreSql
 
 A simple and basic task system to add, edit, delete and view using PHP Slim and PostgreSql with Bootstrap in front-end.
 
